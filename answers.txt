@@ -7,3 +7,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: data science could be applied to something like cybersecurity to analyze threat index of an attacker and the various techniques they might use.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: i think merging would just create a new commit that combines all the history of the branches existing while rebasing would just apply changes of
+one branch onto another one by one.
